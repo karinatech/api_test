@@ -1,0 +1,75 @@
+[
+  {
+    name: {},
+    tld: [],
+    cca2: "CO",
+    ccn3: "170",
+    cca3: "COL",
+    cioc: "COL",
+    independent: true,
+    status: "officially-assigned",
+    unMember: true,
+    currencies: {},
+    idd: {},
+    capital: [],
+    altSpellings: [],
+    region: "Americas",
+    subregion: "South America",
+    languages: {},
+    translations: {},
+    latlng: [
+      4,
+      -72,
+    ],
+    landlocked: false,
+    borders: [],
+    area: 1141748,
+    demonyms: {
+      eng: {
+        f: "Colombian",
+        m: "Colombian",
+      },
+      fra: {
+        f: "Colombienne",
+        m: "Colombien",
+      },
+    },
+    flag: "🇨🇴",
+    maps: {
+      googleMaps: "https://goo.gl/maps/RdwTG8e7gPwS62oR6",
+      openStreetMaps: "https://www.openstreetmap.org/relation/120027",
+    },
+    population: 50882884,
+    gini: {
+      2019: 51.3
+    },
+    fifa: "COL",
+    car: {
+      signs: [
+        "CO"
+      ],
+      side: "right",
+    },
+    timezones: [
+      "UTC-05:00"
+    ],
+    continents: [
+      "South America"
+    ],
+    flags: {
+      png: "https://flagcdn.com/w320/co.png",
+      svg: "https://flagcdn.com/co.svg",
+    },
+    coatOfArms: {
+      png: "https://mainfacts.com/media/images/coats_of_arms/co.png",
+      svg: "https://mainfacts.com/media/images/coats_of_arms/co.svg",
+    },
+    startOfWeek: "monday",
+    capitalInfo: {
+      latlng: [
+        4.71,
+        -74.07,
+      ]
+    },
+  }
+]
